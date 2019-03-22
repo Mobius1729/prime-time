@@ -1,10 +1,8 @@
-package mathematicalPrograms;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class prime_number_test {
-
+	
 	private static Scanner userInput = new Scanner(System.in);
 	private static int counter = 0;
 	private static ArrayList<Integer> factors = new ArrayList<Integer>();
